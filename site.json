@@ -1,9 +1,9 @@
 {
-    "title": "Fenkipedia",
-    "subtitle": "the funky and free encyclopedia!",
-    "author": "Fenkipedia",
-    "email": "admin@fenkipedia.cn",
-    "root_url": "http://fenkipedia.c",
-    "timezone": "UTC+08:00",
-    "language": "zh-hans"
+  "title": "Fenkipedia",
+  "subtitle": "the funky and free encyclopedia!",
+  "author": "Fenkipedia",
+  "email": "admin@fenkipedia.cn",
+  "root_url": "http://fenkipedia.c",
+  "timezone": "UTC+08:00",
+  "language": "zh-cn"
 }
